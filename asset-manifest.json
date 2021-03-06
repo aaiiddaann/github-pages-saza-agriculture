@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github-pages-saza-agriculture/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github-pages-saza-agriculture/static/js/main.43021cfc.chunk.js",
-    "main.js.map": "/github-pages-saza-agriculture/static/js/main.43021cfc.chunk.js.map",
-    "runtime-main.js": "/github-pages-saza-agriculture/static/js/runtime-main.b06c0d67.js",
-    "runtime-main.js.map": "/github-pages-saza-agriculture/static/js/runtime-main.b06c0d67.js.map",
-    "static/js/2.1befcdb6.chunk.js": "/github-pages-saza-agriculture/static/js/2.1befcdb6.chunk.js",
-    "static/js/2.1befcdb6.chunk.js.map": "/github-pages-saza-agriculture/static/js/2.1befcdb6.chunk.js.map",
-    "static/js/3.2c5ad782.chunk.js": "/github-pages-saza-agriculture/static/js/3.2c5ad782.chunk.js",
-    "static/js/3.2c5ad782.chunk.js.map": "/github-pages-saza-agriculture/static/js/3.2c5ad782.chunk.js.map",
-    "index.html": "/github-pages-saza-agriculture/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/github-pages-saza-agriculture/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1befcdb6.chunk.js.LICENSE.txt": "/github-pages-saza-agriculture/static/js/2.1befcdb6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github-pages-saza-agriculture/static/media/logo.6ce24c58.svg"
+    "main.css": "./static/css/main.8c8b27cf.chunk.css",
+    "main.js": "./static/js/main.43021cfc.chunk.js",
+    "main.js.map": "./static/js/main.43021cfc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.47e13ab5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.47e13ab5.js.map",
+    "static/js/2.1befcdb6.chunk.js": "./static/js/2.1befcdb6.chunk.js",
+    "static/js/2.1befcdb6.chunk.js.map": "./static/js/2.1befcdb6.chunk.js.map",
+    "static/js/3.2c5ad782.chunk.js": "./static/js/3.2c5ad782.chunk.js",
+    "static/js/3.2c5ad782.chunk.js.map": "./static/js/3.2c5ad782.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "./static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1befcdb6.chunk.js.LICENSE.txt": "./static/js/2.1befcdb6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b06c0d67.js",
+    "static/js/runtime-main.47e13ab5.js",
     "static/js/2.1befcdb6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.43021cfc.chunk.js"
